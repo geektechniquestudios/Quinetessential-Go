@@ -13,8 +13,6 @@ func main() {
 
 ```
 
-Not much to see here. Just the art of code. 
-
 
 ###### Enjoy your day.
 
